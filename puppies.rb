@@ -34,7 +34,7 @@ def less_puppies(number)
 end
 
 def some_puppies(number, maximum_puppy_allowance)
-  if maximum_puppy_allowance // 2 < number
+  if maximum_puppy_allowance / 2 < number
     "Good job"
   else 
     "get back on puppy restriction"
