@@ -33,7 +33,7 @@ def less_puppies(number)
   end
 end
 
-less_puppies("number")
+less_puppies("3")
 
 def some_puppies(number, maximum_puppy_allowance)
   if maximum_puppy_allowance / 2 < number
